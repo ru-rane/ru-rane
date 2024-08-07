@@ -1,6 +1,4 @@
 - 👋 Hi, my name is Rutuja Rane.
-- 👀 I’m interested in programming and currently in the learning process. 
-- 🌱 I’m currently learning as Programmer Analyst in College Multihexa.
 - 📫 How to reach me: ruturrane@gmail.com
 
 <!---
