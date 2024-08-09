@@ -4,11 +4,13 @@ Welcome to my GitHub profile!
 ## 💼 Skills
 - **Languages:** PHP, C#, Kotlin, Python, JavaScript, Java
 - **Frameworks:** Laravel, ASP.Net, React, Django
-- **Tools:**  Git, CI/CD, Jira, Asana, Android Studio
+- **Tools:**  Git, Jira, Asana, Android Studio
 
 ## 🌱 Learning
 - Currently exploring Cloud structuring with AWS
   
+## 📫 Contact
+- ruturrane@gmail.com
 
 <!--
 ## 📫 Contact
